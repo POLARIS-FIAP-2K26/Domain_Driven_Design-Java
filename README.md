@@ -28,12 +28,8 @@ A solução promove a inovação tecnológica e a infraestrutura inteligente. Ao
 
 ### Software e Arquitetura
 
-* 
-**Linguagem:** Java (Interface gráfica com Swing )
-
-
-* 
-**Paradigma:** Programação Orientada a Objetos (Encapsulamento, Herança e Polimorfismo )
+* **Linguagem:** Java (Interface gráfica com Swing )
+* **Paradigma:** Programação Orientada a Objetos (Encapsulamento, Herança e Polimorfismo )
 
 
 
@@ -66,9 +62,6 @@ git clone https://github.com/seu-usuario/space-connect.git
 Projeto desenvolvido como Global Solution por estudantes de Engenharia de Software da FIAP:
 
 * **Arthur Berlofa Bosi** - RM: 564438 
-
 * **Levi de Jesus** - RM: 563279 
-
 * **Luigi Borghi** - RM: 563096 
-
 * **Ulisses Ribeiro** - RM: 562230
