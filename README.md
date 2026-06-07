@@ -32,6 +32,12 @@ O sistema centraliza a estrutura de dados na classe abstrata `Sensor`. Esta clas
 
 ---
 
+## 📽️ Vídeo Demonstrativo
+
+Clique [aqui](https://youtu.be/4QiVDbsHqfw) para ter acesso ao vídeo demonstrativo da arquitetura e funcionamento da solução.
+
+---
+
 ## 🚀 Como Executar
 
 1. Clone este repositório para a sua máquina local:
