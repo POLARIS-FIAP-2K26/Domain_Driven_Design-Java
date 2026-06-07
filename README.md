@@ -14,13 +14,6 @@ A solução promove a inovação tecnológica e a infraestrutura inteligente. Ao
 
 ## 🛠️ Tecnologias e Habilidades
 
-### Modelagem 3D e Design Físico
-
-* **SolidWorks**
-* **CATIA V5**
-* **Autodesk Maya**
-* **Solid Edge**
-
 ### Hardware e IoT
 
 * **Microcontrolador:** ESP32
@@ -30,8 +23,6 @@ A solução promove a inovação tecnológica e a infraestrutura inteligente. Ao
 
 * **Linguagem:** Java (Interface gráfica com Swing )
 * **Paradigma:** Programação Orientada a Objetos (Encapsulamento, Herança e Polimorfismo )
-
-
 
 ---
 
